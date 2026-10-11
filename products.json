@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 49.99,
+    "originalPrice": 69.99,
+    "rating": 4.2,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300"
+  },
+  {
+    "id": 3,
+    "name": "Casual Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "originalPrice": 25.00,
+    "rating": 4.0,
+    "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=300"
+  },
+  {
+    "id": 4,
+    "name": "Slim Fit Denim Jeans",
+    "category": "Clothing",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=300"
+  },
+  {
+    "id": 5,
+    "name": "Running Sports Shoes",
+    "category": "Footwear",
+    "price": 89.99,
+    "originalPrice": 110.00,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300"
+  },
+  {
+    "id": 6,
+    "name": "Classic Leather Boots",
+    "category": "Footwear",
+    "price": 120.00,
+    "originalPrice": 150.00,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=300"
+  },
+  {
+    "id": 7,
+    "name": "JavaScript: The Definitive Guide",
+    "category": "Books",
+    "price": 39.99,
+    "originalPrice": 49.99,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300"
+  },
+  {
+    "id": 8,
+    "name": "Atomic Habits by James Clear",
+    "category": "Books",
+    "price": 16.50,
+    "originalPrice": 22.00,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=300"
+  },
+  {
+    "id": 9,
+    "name": "Portable Power Bank 20000mAh",
+    "category": "Electronics",
+    "price": 35.00,
+    "originalPrice": 45.00,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1609592424104-972d36ab6d12?w=300"
+  },
+  {
+    "id": 10,
+    "name": "Waterproof Winter Jacket",
+    "category": "Clothing",
+    "price": 95.00,
+    "originalPrice": 130.00,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=300"
+  },
+  {
+    "id": 11,
+    "name": "Canvas Slip-On Sneakers",
+    "category": "Footwear",
+    "price": 34.99,
+    "originalPrice": 45.00,
+    "rating": 4.1,
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=300"
+  },
+  {
+    "id": 12,
+    "name": "Clean Code by Robert C. Martin",
+    "category": "Books",
+    "price": 29.99,
+    "originalPrice": 39.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=300"
+  }
+]
